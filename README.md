@@ -1,1 +1,1 @@
-# qa_guru_python_5_2
+домашки по курсу qa guru python
